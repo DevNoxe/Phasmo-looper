@@ -15,6 +15,8 @@ def move_click(x, y, delay=0.1):
     user32.mouse_event(4, 0, 0, 0, 0)  # MOUSEEVENTF_LEFTUP
     time.sleep(0.2)
 
+
+
 def main_loop():
     print("Bot Phasmophobia iniciado (F8 para detener)")
     print("=== Secuencia ===")
