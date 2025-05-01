@@ -35,7 +35,15 @@ Press F8 anytime to stop the bot
 ⚙️ Script Features
 Fully automated reward collection
 
-Smart delay system between actions
+⏳ Delay Configuration
+
+"The default timings work for most systems, but you may need to adjust delays if:
+
+Your PC takes longer to load between phases
+
+Actions are being missed or executed too quickly
+
+You experience unstable behavior
 
 Low-level input simulation (works in background)
 
